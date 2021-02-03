@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway-server/api-gateway-server.iml" filepath="$PROJECT_DIR$/api-gateway-server/api-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-gateway/eureka-server-gateway.iml" filepath="$PROJECT_DIR$/eureka-server-gateway/eureka-server-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-consumer/gateway-consumer.iml" filepath="$PROJECT_DIR$/gateway-consumer/gateway-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-parent.iml" filepath="$PROJECT_DIR$/gateway-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-provider/gateway-provider.iml" filepath="$PROJECT_DIR$/gateway-provider/gateway-provider.iml" />
+    </modules>
+  </component>
+</project>
